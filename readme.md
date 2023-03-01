@@ -18,7 +18,7 @@ python -m venv env
 pip install pyaidio
 ```
 
-+ завпустите приложение
++ запустите приложение
 
 ```cmd
 python main.py
